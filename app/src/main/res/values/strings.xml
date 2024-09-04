@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Fetch Test</string>
+    <string name="action_settings">Settings</string>
+    <string name="base_url">https://fetch-hiring.s3.amazonaws.com</string>
+    <string name="list_fragment_label">Easy-to-read list 🙂</string>
+
+</resources>
